@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{52C88FC1-3287-48A9-A5FB-3D73554C0704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDictionaryLib", "EventDictionaryLib\EventDictionaryLib.csproj", "{630FF7A1-AC50-4522-9729-4F493B7E9FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary.Tests", "Dictionary.Tests\Dictionary.Tests.csproj", "{AA02B660-87E1-4682-A520-7DCDC86E3525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C88FC1-3287-48A9-A5FB-3D73554C0704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C88FC1-3287-48A9-A5FB-3D73554C0704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C88FC1-3287-48A9-A5FB-3D73554C0704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C88FC1-3287-48A9-A5FB-3D73554C0704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630FF7A1-AC50-4522-9729-4F493B7E9FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630FF7A1-AC50-4522-9729-4F493B7E9FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630FF7A1-AC50-4522-9729-4F493B7E9FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630FF7A1-AC50-4522-9729-4F493B7E9FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA02B660-87E1-4682-A520-7DCDC86E3525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA02B660-87E1-4682-A520-7DCDC86E3525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA02B660-87E1-4682-A520-7DCDC86E3525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA02B660-87E1-4682-A520-7DCDC86E3525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
